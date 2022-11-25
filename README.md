@@ -2,7 +2,7 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<img alt="Skype icon" src="https://img.icons8.com/color/2x/skype--v4.png 2x" style="height: 48px; width: 48px;" align="center"><br> 
+<img alt="Skype icon" src="https://img.icons8.com/color/2x/skype--v4.png 2x" style="height: 48px; width: 48px; margin: 0 auto;"><br> 
 <h3 align="center">live:.cid.9c76388b04cf6114</h3>
 <br>
 
