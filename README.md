@@ -1,14 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=5%2B+years+of+hands-on+experience+in+Web+Development;Blockchain+Developer;iOS+Android+App+Developer;Passion+for+change+and+breaking+previous+records)](https://git.io/typing-svg)
 
-<h3 align="center">Connect with me:</h3>
-
-<img alt="Skype icon" src="https://img.icons8.com/color/2x/skype--v4.png 2x" style="height: 48px; width: 48px; margin: 0 auto;"><br> 
-<h3 align="center">live:.cid.9c76388b04cf6114</h3>
-<br>
-
-<h4 align="center">Skype: live:.cid.9c76388b04cf6114 <---> Telegram: @igwt0505</h4> 
-<h4 align="center">"igwt0505@gmail.com"</h4> 
-
+<h3 align="center">Skype: live:.cid.9c76388b04cf6114 <---> Telegram: @igwt0505 <--->igwt0505@gmail.com</h3> 
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=igwt555.igwt555" />
 <img align="right" src="https://img.shields.io/github/followers/igwt555?label=Follow&style=social" />
