@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=7%2B+years+of+hands-on+experience+in+programming;Blockchain+developer;Web+and+mobile+app+developer;Passion+for+change+and+breaking+previous+records)](https://git.io/typing-svg)
-<h6 align="center">Skype: live:.cid.fb1ecace091ab8d8 <---> Telegram: @areejsz1
+<h3 align="center">Skype: live:.cid.9c76388b04cf6114 <---> Telegram: @igwt0505  <--->  Signal : +1 707 574 8908
 <!--   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://join.skype.com/invite/zqVb0AjH4liM"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a> -->
-</h6>
+</h3>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=fullstackdeveloper1206.fullstackdeveloper1206" />
 <img align="right" src="https://img.shields.io/github/followers/fullstackdeveloper1206?label=Follow&style=social" />
 <h1 align="center"></h1>
