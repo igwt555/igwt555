@@ -1,10 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=5%2B+years+of+hands-on+experience+in+Web+Development;Blockchain+Developer;iOS+Android+App+Developer;Passion+for+change+and+breaking+previous+records)](https://git.io/typing-svg)
+
+- 📫 How to reach me *igwt0505@gmail.com*
+
+<h3 align="left">Connect with me:</h3>
+
+<img alt="Telegram icon" src="https://img.icons8.com/color/2x/Telegram--v4.png 2x" style="height: 48px; width: 48px;"><br> 
+live:.cid.9c76388b04cf6114
+<br>
+
+
 <h4 align="center">Skype: live:.cid.9c76388b04cf6114 <---> Telegram: @igwt0505</h4> 
 <h4 align="center">"igwt0505@gmail.com"</h4> 
-<!--   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-  <a href="https://join.skype.com/invite/zqVb0AjH4liM"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a> -->
+
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=igwt555.igwt555" />
 <img align="right" src="https://img.shields.io/github/followers/igwt555?label=Follow&style=social" />
