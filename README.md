@@ -7,6 +7,9 @@
 
 <br>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=5%2B+years+of+hands-on+experience+in+Frontend Development;4+years+of+experience+in+Backend Development;iOS/Android+App+Developer;Passion+for+change+and+breaking+previous+records)](https://git.io/typing-svg)
+<h6 align="center">Skype: live:.cid.9c76388b04cf6114 <---> Telegram: @igwt0505
+
 
 - 🧑🏼‍🔬 Working as a front-end engineer on a large-scale project for 7 years
 
