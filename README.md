@@ -47,8 +47,6 @@
 
 <!-- [![trophy](https://github-readme-streak-stats.herokuapp.com/?user=igwt555&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=igwt555) [![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=igwt555&theme=merko)](https://github-readme-stats.vercel.app/api/wakatime?username=igwt555) -->
 
-[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=igwt555&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=igwt555&theme=github&count_private=true)
-
 <div align="center">
   <!-- <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/igwt555/igwt555?style=flat-square&color=black&logo=github">
