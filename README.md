@@ -68,7 +68,7 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
  
-### Online Booking/Betting Website and Mobile app
+### Web/Mobile App Development using MERN/MEVN stacks
 <br />
 
 ### Ecommerce Website + Blockchain Technology
