@@ -2,7 +2,7 @@
 
 <h3 align="center">Skype: live:.cid.9c76388b04cf6114 <---> Telegram: @igwt0505 <--->igwt5555@gmail.com</h3> 
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=igwt555.igwt555" />
+//<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=igwt555.igwt555" />
 <img align="right" src="https://img.shields.io/github/followers/igwt555?label=Follow&style=social" />
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=igwt555&show_icons=true&theme=merko&count_private=true" />
