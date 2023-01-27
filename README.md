@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=5%2B+years+of+hands-on+experience+in+Web+Development;iOS+Android+App+Developer;Passion+for+change+and+breaking+previous+records)](https://git.io/typing-svg)
 
-<h3 align="center">Skype: live:.cid.9c76388b04cf6114 <--->igwt5555@gmail.com</h3> 
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=igwt555.igwt555" />
 <img align="right" src="https://img.shields.io/github/followers/igwt555?label=Follow&style=social" />
 <h1 align="center"></h1>
